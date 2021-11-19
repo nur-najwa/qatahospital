@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\qatahospital\resources\views/user/latest.blade.php ENDPATH**/ ?>
